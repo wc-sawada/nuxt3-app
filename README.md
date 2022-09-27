@@ -1,3 +1,11 @@
+# Nuxt 3 サンプルリポジトリ
+
+参照  
+https://zenn.dev/torish/scraps/16676a3500ad99
+
+## このリポジトリの目的
+担当サービスをnuxt3へ移行するにあたり、弊害となり得るパッケージがあるかどうか調べるため作成した。
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
